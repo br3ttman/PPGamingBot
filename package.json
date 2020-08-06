@@ -1,0 +1,20 @@
+{
+  "name": "HelpBot",
+  "version": "1.0.0",
+  "description": "i AM HERE TO HELP",
+  "main": "bot.js",
+  "author": "HelpBot",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.2.0",
+    "gamedig": "^2.0.21",
+    "line-by-line": "^0.1.6",
+    "line-reader": "^0.4.0",
+    "puppeteer": "^5.2.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "webpack-dev-server": "^3.11.0",
+    "winston": "^3.3.3"
+  }
+}
