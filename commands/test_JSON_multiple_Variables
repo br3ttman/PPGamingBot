@@ -1,0 +1,13 @@
+{
+"items":[    
+    {"name":"Shovel", "code":"Shov121", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/7/77/Shovel.png/128px-Shovel.png?version=eefb9f60d02eb0fa6c57be0c4b9177c0"},    
+    {"name":"Sword", "code":"Swd3245", "img":"https://vignette.wikia.nocookie.net/clubpenguin/images/7/74/Clothing_Icons_5419.png/revision/latest/scale-to-width-down/340?cb=20140224172959"},   
+    {"name":"Down", "code":"#TakenOut", "img":"https://s7.gifyu.com/images/ezgif-6-5806dff80434.gif"},      
+    {"name":"Banana", "code":"Fruit43", "img":"https://image.arrivalguides.com/415x300/06/b08101f9a0912ae3801b2e39ed74f6c4.jpg"}
+],
+"food":[
+    {"name":"Shovel", "code":"Shov121", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/7/77/Shovel.png/128px-Shovel.png?version=eefb9f60d02eb0fa6c57be0c4b9177c0"},    
+    {"name":"Sword", "code":"Swd3245", "img":"https://vignette.wikia.nocookie.net/clubpenguin/images/7/74/Clothing_Icons_5419.png/revision/latest/scale-to-width-down/340?cb=20140224172959"},   
+    {"name":"Down", "code":"#TakenOut", "img":"https://s7.gifyu.com/images/ezgif-6-5806dff80434.gif"},      
+    {"name":"Banana", "code":"Fruit43", "img":"https://image.arrivalguides.com/415x300/06/b08101f9a0912ae3801b2e39ed74f6c4.jpg"}
+]}

@@ -1,0 +1,35 @@
+["items":[  
+    {"name":"!Advanced Compass", "code":"#SpawnItem BP_Compass_Advanced", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/e/ee/Advanced_Compass.png/50px-Advanced_Compass.png?version=699f838645797250ae6e542d0a5ee1df"},
+	{"name":"!Basic Compass", "code":"#SpawnItem BP_Compass_Basic", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/b/b3/Basic_Compass.png/50px-Basic_Compass.png?version=fd4e5ea6cf3f3f4cb2f9a129d6d55550"},
+	{"name":"!Binoculars", "code":"#SpawnItem BP_BinocularsTest", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/7/74/Binoculars.png/50px-Binoculars.png?version=5347c7460fee8ea00783300ed4ec4eac"},
+	{"name":"!Candle", "code":"#SpawnItem Candle_01", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/3/30/Candle.png/50px-Candle.png?version=107b7eacedddffaa259f762f8e5b0eae"},
+	{"name":"!Flare Gun", "code":"#SpawnItem BP_FlareGun", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/5/57/Flare_Gun.png/50px-Flare_Gun.png?version=bdf75b48df00b07f98ab47793d675486"},
+	{"name":"!Flare1", "code":"#SpawnItem BP_FlareItem", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/5/57/Flare_Red.png/50px-Flare_Red.png?version=c98e4dcb28228460a4220f7e5738b04c"},
+	{"name":"!Flare2", "code":"#SpawnItem BP_FlareItem_Blue", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/5/57/Flare_Red.png/50px-Flare_Red.png?version=c98e4dcb28228460a4220f7e5738b04c"},
+	{"name":"!Flare3", "code":"#SpawnItem BP_FlareItem_Green", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/f/fc/Flare_Green.png/50px-Flare_Green.png?version=2daad103de118cd942feec723bd2a771"},
+	{"name":"!Lighter", "code":"#SpawnItem Lighter", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/c/c4/Lighter.png/50px-Lighter.png?version=68c14fd198fb9ed41eb99657a0952065"},
+	{"name":"!Matches", "code":"#SpawnItem Matches", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/a/aa/Matches.png/50px-Matches.png?version=67d5a7c6ca63cc20585a92cda71aede4"},
+	{"name":"!Military Compass", "code":"#SpawnItem BP_Compass", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/7/7f/Military_Compass.png/50px-Military_Compass.png?version=e2678f1da9223e5bb3c3ec24ed41e962"},
+	{"name":"!Primitive Compass", "code":"#SpawnItem BP_Compass_Primitive", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/6/67/Primitive_Compass.png/50px-Primitive_Compass.png?version=bdb79fb815c7e5c31638106dc19cbfed"},
+	{"name":"!Torch", "code":"#SpawnItem Torch", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/b/b2/Torch.png/50px-Torch.png?version=cd51be823509eb5478d3a6dc677f84ad"},
+	{"name":"!Wire Cutters", "code":"#spawnitem Wire_Cutters_01", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/7/77/Shovel.png/128px-Shovel.png?version=eefb9f60d02eb0fa6c57be0c4b9177c0"},
+	{"name":"!Car Repair Kit", "code":"#SpawnItem Car_Repair_Kit", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/c/c7/Car_Repair_Kit.png/50px-Car_Repair_Kit.png?version=aa643082de655e3f484e82bbbeb61f00"},
+	{"name":"!Electrical Repair Kit", "code":"#SpawnItem Electrical_Repair_Kit", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/c/cb/Electrical_Repair_Kit.png/50px-Electrical_Repair_Kit.png?version=604da177745e9168a1a267a01261447b"},
+	{"name":"!Grinding Stone1", "code":"#SpawnItem Grinding_Stone_01", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/9/96/Grinding_Stone_01.png/50px-Grinding_Stone_01.png?version=12b63e6a6cdabc8df50d4c1d46550d5f"},
+	{"name":"!Grinding Stone2", "code":"#SpawnItem Grinding_Stone_02", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/7/7c/Grinding_Stone_02.png/50px-Grinding_Stone_02.png?version=420c6a333e612c0609bcc4d6653e865d"},
+	{"name":"!Improvised Tool Box", "code":"#SpawnItem Improvised_Tool_Box", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/a/a1/Improvised_Tool_Box.png/50px-Improvised_Tool_Box.png?version=5d8d71c06bed452432629d20dc1b88da"},
+	{"name":"!Sewing kit", "code":"#SpawnItem Sewing_kit", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/9/9f/Sewing_Kit.png/50px-Sewing_Kit.png?version=938fa42f863d6c5ac8f0298c2f34598f"},
+	{"name":"!Tool Box Small", "code":"#SpawnItem Tool_Box_Small", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/5/5a/Small_Tool_Box.png/50px-Small_Tool_Box.png?version=2f3a819a92133f064a1d895207dfe9ef"},
+	{"name":"!Tool Box", "code":"#SpawnItem Tool_Box", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/1/10/Tool_Box.png/50px-Tool_Box.png?version=6d560cfea236704e2f010f6b31176d29"},
+	{"name":"!Weapon Cleaning Kit", "code":"#SpawnItem Weapon_Cleaning_Kit", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/f/f9/Weapon_Cleaning_Kit.png/50px-Weapon_Cleaning_Kit.png?version=49050e0ccec76b980d2867e23c324c37"},
+	{"name":"!Banjo", "code":"#SpawnItem BP_Banjo", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/2/2b/Banjo.png/50px-Banjo.png?version=26f70e4cdc605db17e819a71ba7d3264"},
+	{"name":"!BoomBox", "code":"#spawnitem BP_BoomBox_01", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/7/77/Shovel.png/128px-Shovel.png?version=eefb9f60d02eb0fa6c57be0c4b9177c0"},
+	{"name":"!Guitar", "code":"#SpawnItem BP_Guitar", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/3/3f/Guitar.png/50px-Guitar.png?version=a7ea2def7e077a50d7f23f7cbe4a9121"},
+	{"name":"!Harmonica", "code":"#SpawnItem BP_Harmonica", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/b/b8/Harmonica.png/50px-Harmonica.png?version=737ee43fcd4c36cd5d109f240cd7844a"},
+	{"name":"!Radio", "code":"#SpawnItem BP_Radio", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/3/31/Radio.png/50px-Radio.png?version=5e0832904af3f8c774586c24955f0cc5"}
+]],
+["food":[  
+    {"name":"!Food", "code":"This is food", "img":"https://gamepedia.cursecdn.com/scum_gamepedia_en/thumb/e/ee/Advanced_Compass.png/50px-Advanced_Compass.png?version=699f838645797250ae6e542d0a5ee1df"},
+
+]]
+

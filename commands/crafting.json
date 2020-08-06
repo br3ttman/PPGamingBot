@@ -1,0 +1,28 @@
+{"recipe":[  
+    {"name":"!stone knife", "code":"To Craft you will need 2x Small Stones"},
+	{"name":"!metal knife", "code":"To Craft you will need 1x Metal Scrap|1x Rags|1x Rope|1x Toolbox"},
+	{"name":"!kunai", "code":"To Craft you will need 1x Metal Scrap|1x Duct Tape|1x Toolbox"},
+	{"name":"!big stone axe head", "code":"To Craft you will need 2x Stones"},
+	{"name":"!small stone axe head", "code":"To Craft you will need 2x Small Stones"},
+	{"name":"!improvised hammer", "code":"To Craft you will need 1x Stone|1x Long Wooden Stick|10x portions of Rope"},
+	{"name":"!stone axe", "code":"To Craft you will need 1x Small Stone Axe Head|1x Long or Small Wooden Stick|1x Roper or Wire"},
+	{"name":"!hatchet", "code":"To Craft you will need 1x Metal Scrap|1x Long or Small Wooden Stick|20x portions or Rope|1x Rags|1x Bolts|12 uses of Tool Box"},
+	{"name":"!big stone axe", "code":"To Craft you will need 1x Big Stone Axe Head|1x Long Wooden Stick|1x Rope|1x Rags"},
+	{"name":"!shovel", "code":"To Craft you will need No Recipe Yet!"},
+	{"name":"!metal axe", "code":"To Craft you will need 2x Metal Scrap|1x Long Wooden Stick|3x Rope|1x Rags|1x Nails|1x Toolbox"},
+	{"name":"!wooden club", "code":"To Craft you will need 1x Wooden Plank|Axe or Hatchet"},
+	{"name":"!barbedwire club", "code":"To Craft you will need 1x Wooden Plank|1x Barbedwire|Axe or Hatchet"},
+	{"name":"!wooden nail club", "code":"To Craft you will need 1x Wooden Plank|1x Nails|Axe or Hatchet"},
+	{"name":"!stone spear", "code":"To Craft you will need 2x Stone|1x Long Wooden Stick|1x Rope|Knife"},
+	{"name":"!spear", "code":"To Craft you will need 1x Long Wooden Stick|Knife"},
+	{"name":"!metal spear", "code":"To Craft you will need 1x Metal Scrap|1x Long Wooden Stick|1x Rope|Hatchet or Axe"},
+	{"name":"!wooden sword", "code":"To Craft you will need 1x Wooden Plank|1x Rubber|20x Rope|Knife"},
+	{"name":"!metal sword", "code":"To Craft you will need 2x Metal Scrap|2x Rope|1x Rubber|1x Toolbox"},
+	{"name":"!barbedwire baseball bat", "code":"To Craft you will need 1x Barbed Wire|1x Baseball Bat"},
+	{"name":"!nail baseball bat", "code":"To Craft you will need 1x Nails|1x Baseball Bat"},
+	{"name":"!shelter", "code":"To Craft you will need 6x Small Wooden Sicks|10x Long Wooden Sticks|3x Rope"},
+	{"name":"!wooden box", "code":"To Craft you will need 8x Wooden Planks|4x Rope"},
+	{"name":"!bearhead hat", "code":"To Craft you will need 1x Bear Head|Knife"},
+	{"name":"!bearhead hat", "code":"To Craft you will need "}
+
+]}
